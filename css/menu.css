@@ -11,7 +11,7 @@ body {
 	width: 930px;
 }
 #header {	
-	padding: 24px 20px;
+	padding: 4px 20px;
 	color: #056085;	
 }
 .logo {
@@ -23,6 +23,7 @@ body {
 }
 #top_menu {
     float: left;
+	padding-top: 5px;
 }
 #top_menu li {
     float: left;
@@ -47,7 +48,7 @@ body {
 }
 #menu_wrap {
 	float: right;
-	padding-top: 38px;
+	padding-top: 30px;
 }
 #main_menu li {
     display: inline;
