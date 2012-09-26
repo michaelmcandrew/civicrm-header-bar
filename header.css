@@ -1,0 +1,33 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.logo {
+    float: left;
+    padding:2px 9px;
+    
+}
+
+li {
+    font-size: 17px;
+    font-family: lato,oswald,"Francois One",Arial,Helvetica,sans-serif;
+    text-decoration: none;
+    letter-spacing: 0px;
+    font-weight: normal;
+    list-style: none;
+    float: left;
+    font-weight:bold;
+    height: 17px;
+    border-left: 1px solid #BBB;
+    padding:9px;
+}
+
+li a{
+    margin-top:3px;
+}
+
+a {
+    text-decoration: none;
+    color: #666;
+}
